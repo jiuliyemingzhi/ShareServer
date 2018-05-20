@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShareServer.iml" filepath="$PROJECT_DIR$/.idea/modules/ShareServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShareServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShareServer_main.iml" group="ShareServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShareServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ShareServer_test.iml" group="ShareServer" />
+    </modules>
+  </component>
+</project>
